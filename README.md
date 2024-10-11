@@ -1,8 +1,6 @@
 <h1> Heya, I'm Pocket Pistol! 
  </h1> 
-<p> I set up this Github as part of a resume workshop for the computer science club at my school
-Regardless I make stuff
-Thats about it. </p> 
+<p> Regardless I make stuff Thats about it. </p> 
 
 <h2> General Bio </h2>
 I'm a idiot who spends too much time on computers. <br> That's pretty much it. <br> My hobbys inculde Wrestling, Rugby, Drawing and coding. I spend too much money on videogames my favorite being ULTRAKILL. 
