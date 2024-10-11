@@ -14,6 +14,7 @@ I'll update you once I know more coding languages my plan is to also learn C++ a
 <br>
 <h2> What will I Do? </h2>
 I'll mostly make mods for games I like and small games here or there, possibly a webiste. That's about it though.
+I have YT where I mostly do dumb video ideas or edits, so go subscribe to that if thats what your into ig. 
 <br>
 <h2> Anything Else? </h2>
 I want to go into game development as a job and I'm cool. 
